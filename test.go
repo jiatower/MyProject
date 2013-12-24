@@ -27,5 +27,5 @@ func main() {
         }
     }
     fmt.Printf("a=%d, b=%d, c=%d\n", a, b, c)
-	fmt.Printf("aliyun")
+	fmt.Printf("aliyun2")
 }
